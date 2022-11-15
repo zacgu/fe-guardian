@@ -125,3 +125,17 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+logs/
+npm-debug.log
+yarn-error.log
+package-lock.json
+coverage/
+dist/
+.idea/
+run/
+.DS_Store
+*.sw*
+*.un~
+.tsbuildinfo
+.tsbuildinfo.*
